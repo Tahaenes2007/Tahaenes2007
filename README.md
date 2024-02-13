@@ -1,7 +1,6 @@
 Hi👋 I am Taha Enes YILMAZ
 
-Software Student /
-<img src=""  width="auto"> I'm playing CS 2 /
+Software Student / I'm playing CS 2 /
 
 
 
